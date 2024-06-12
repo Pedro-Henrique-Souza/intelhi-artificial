@@ -1,1 +1,1 @@
-# intelhi-artificial
+# inteli-artificial
